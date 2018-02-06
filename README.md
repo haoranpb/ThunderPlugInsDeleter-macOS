@@ -13,5 +13,5 @@
 3. 在终端中输入`./ThunderpluginDeteter.sh`执行shell
 
 ## 效果示例：
-![image](http://github.com/ludanxer/Thunder-PlugIns-Deleter/raw/master/images/image.jpg)
+![image](https://github.com/ludanxer/Thunder-PlugIns-Deleter/raw/master/images/image.jpg)
 
