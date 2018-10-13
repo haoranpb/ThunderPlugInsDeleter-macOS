@@ -6,8 +6,8 @@
 
 
 ## 运行：
-1. 下载文件`ThunderpluginDeteter.sh`
-2. 打开终端，进入文件所在目录，在终端中执行`chmod -x ThunderpluginDeteter.sh`给予脚本执行权限
+1. 下载文件`ThunderPluginDeteter.sh`
+2. 打开终端，进入文件所在目录，在终端中执行`chmod -x ThunderPluginDeteter.sh`给予脚本执行权限
 3. 在终端中输入`./ThunderpluginDeteter.sh`执行shell
 
 ## 效果示例：
